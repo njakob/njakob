@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heyy 👋
+
+I'm currently working on different projects that might interest you!
+
+- 👾 **[Offlands](https://offlands.net)**: Retro 2D online game focused on dynamic and emerging ecosystems. The game is made in C++ with SDL2 and Entt.
+- 📦 **[vcpkg.link](https://vcpkg.link)**: Package explorer for [vcpkg](https://github.com/microsoft/vcpkg).
 
 <!--
 **njakob/njakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
