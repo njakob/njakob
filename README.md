@@ -2,8 +2,11 @@
 
 I'm currently working on different projects that might interest you!
 
-- 👾 **[Offlands](https://offlands.net)**: Retro 2D online game focused on dynamic and emerging ecosystems. The game is made in C++ with SDL2 and Entt.
-- 📦 **[vcpkg.link](https://vcpkg.link)**: Package explorer for [vcpkg](https://github.com/microsoft/vcpkg).
+- 👾 **[Offlands](https://offlands.net)**: Retro 2D online game focused on dynamic and emerging ecosystems. Made in C++ with SDL2 and Entt
+- 🖼️ **[Outsprite](https://outsprite.com)**: Online toolchain to manage retro pixel art game assets. Made with Astro and React
+- 📦 **[vcpkg.link](https://vcpkg.link)**: Package explorer for [vcpkg](https://github.com/microsoft/vcpkg). Made with Next.js
+
+More details in my personal notebook [njakob.com](https://njakob.com)
 
 <!--
 **njakob/njakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
