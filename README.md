@@ -2,9 +2,9 @@
 
 I'm currently working on different projects that might interest you!
 
-- 👾 **[Offlands](https://offlands.net)**: Retro 2D online game focused on dynamic and emerging ecosystems. Made in C++ with SDL2 and Entt
-- 🖼️ **[Outsprite](https://outsprite.com)**: Online toolchain to manage retro pixel art game assets. Made with Astro and React
-- 📦 **[vcpkg.link](https://vcpkg.link)**: Package explorer for [vcpkg](https://github.com/microsoft/vcpkg). Made with Next.js
+- 👾 **[Offlands](https://offlands.net)**: Retro 2D online game focused on dynamic and emerging ecosystems. Made in C++ with [SDL2](https://github.com/libsdl-org/SDL) and [Entt](https://github.com/skypjack/entt)
+- 🖼️ **[Outsprite](https://outsprite.com)**: Online toolchain to manage retro pixel art game assets. Made with [Astro](https://github.com/withastro/astro) and [React](https://github.com/facebook/react)
+- 📦 **[vcpkg.link](https://vcpkg.link)**: Package explorer for [vcpkg](https://github.com/microsoft/vcpkg). Made with [Next.js](https://github.com/vercel/next.js)
 
 More details in my personal notebook [njakob.com](https://njakob.com)
 
